@@ -29,3 +29,4 @@
         🌡️ Fahrenheit: ${fahrenheit.toFixed(2)} °F <br>
         🌡️ Kelvin: ${kelvin.toFixed(2)} K
       `;
+    }
